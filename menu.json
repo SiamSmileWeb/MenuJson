@@ -1,0 +1,412 @@
+{
+    "data": [
+        {
+            "linkGroupId": 1,
+            "linkGroupName": "งานรับประกัน",
+            "links": [
+                {
+                    "linkOrder": 1,
+                    "linkIcon": "fa fa-heartbeat",
+                    "linkIconFA6": "fas fa-heartbeat",
+                    "linkURL": "https://sssph.siamsmile.co.th/",
+                    "linkTitle": "SSS",
+                    "linkDescription": "ระบบประกันสุขภาพ",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 2,
+                    "linkIcon": "fa fa-graduation-cap",
+                    "linkIconFA6": "fas fa-graduation-cap",
+                    "linkURL": "https://ssspa.siamsmile.co.th/",
+                    "linkTitle": "SSSPA",
+                    "linkDescription": "โปรแกรม PA นักเรียน",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 3,
+                    "linkIcon": "fa fa-automobile",
+                    "linkIconFA6": "fas fa-car",
+                    "linkURL": "https://b2b.siamsmile.co.th/sign/in",
+                    "linkTitle": "Motor (Broker-Mate)",
+                    "linkDescription": "โปรแกรม MOTOR",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 4,
+                    "linkIcon": "fa fa-cubes",
+                    "linkIconFA6": "fas fa-cubes",
+                    "linkURL": "https://mcln.siamsmile.co.th/",
+                    "linkTitle": "Miscellaneous",
+                    "linkDescription": "ประกันภัยเบ็ดเตล็ด",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 5,
+                    "linkIcon": "fa fa-university",
+                    "linkIconFA6": "fas fa-university",
+                    "linkURL": "https://pac.siamsmile.co.th/",
+                    "linkTitle": "PA Community",
+                    "linkDescription": "ระบบประกัน PA ชุมชน",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 6,
+                    "linkIcon": "fa fa-ambulance",
+                    "linkIconFA6": "fas fa-ambulance",
+                    "linkURL": "https://critical.siamsmile.co.th/",
+                    "linkTitle": "Critical Illness",
+                    "linkDescription": "ระบบประกันโรคร้ายแรง",
+                    "linkRole": [],
+                    "linkPermission": []
+                }
+            ]
+        },
+        {
+            "linkGroupId": 2,
+            "linkGroupName": "เบี้ยประกัน การเงิน และบัญชี",
+            "links": [
+                {
+                    "linkOrder": 1,
+                    "linkIcon": "fa fa-paypal",
+                    "linkIconFA6": "fas fa-paypal",
+                    "linkURL": "https://prmorder.siamsmile.co.th",
+                    "linkTitle": "Premium Order",
+                    "linkDescription": "ระบบใบแจ้งชำระเบี้ย",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 2,
+                    "linkIcon": "fa fa-folder",
+                    "linkIconFA6": "fas fa-folder",
+                    "linkURL": "https://prm.siamsmile.co.th",
+                    "linkTitle": "New Premium",
+                    "linkDescription": "ระบบเบี้ย",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 3,
+                    "linkIcon": "fa fa-paper-plane-o",
+                    "linkIconFA6": "fas fa-paper-plane",
+                    "linkURL": "https://bdd.siamsmile.co.th/",
+                    "linkTitle": "BankDirectDebit",
+                    "linkDescription": "BANKDIRECTDEBIT",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 4,
+                    "linkIcon": "fa fa-btc",
+                    "linkIconFA6": "fas fa-btc",
+                    "linkURL": "https://ssscr.siamsmile.co.th/",
+                    "linkTitle": "SSS-CashReceive",
+                    "linkDescription": "โปรแกรม CASH RECEIVE",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 5,
+                    "linkIcon": "fa fa-money",
+                    "linkIconFA6": "fas fa-money-bill",
+                    "linkURL": "https://pettycash.siamsmile.co.th/",
+                    "linkTitle": "Petty Cash",
+                    "linkDescription": "ระบบเงินสดย่อย",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 6,
+                    "linkIcon": "fa fa-exclamation-circle",
+                    "linkIconFA6": "fas fa-exclamation-circle",
+                    "linkURL": "https://bill.siamsmile.co.th/",
+                    "linkTitle": "Bill Payment",
+                    "linkDescription": "ระบบ BILL",
+                    "linkRole": [],
+                    "linkPermission": []
+                }
+            ]
+        },
+        {
+            "linkGroupId": 3,
+            "linkGroupName": "คัดกรอง",
+            "links": [
+                {
+                    "linkOrder": 1,
+                    "linkIcon": "fa fa-id-card",
+                    "linkIconFA6": "fas fa-id-card",
+                    "linkURL": "https://udwbranch2.siamsmile.co.th/",
+                    "linkTitle": "Smile Underwrite",
+                    "linkDescription": "ระบบคัดกรองและมอบบัตร",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 2,
+                    "linkIcon": "fa fa-shield",
+                    "linkIconFA6": "fas fa-shield-alt",
+                    "linkURL": "https://udwaudit.siamsmile.co.th/",
+                    "linkTitle": "Underwrite Audit",
+                    "linkDescription": "ระบบตรวจสอบการคัดกรอง",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 3,
+                    "linkIcon": "fa fa-phone-square",
+                    "linkIconFA6": "fas fa-phone-square-alt",
+                    "linkURL": "https://udwcc.siamsmile.co.th/",
+                    "linkTitle": "Underwrite Cancellation",
+                    "linkDescription": "ระบบโทรหาลูกค้ายกเลิก",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 4,
+                    "linkIcon": "fa fa-phone-square",
+                    "linkIconFA6": "fas fa-phone-square-alt",
+                    "linkURL": "",
+                    "linkTitle": "Underwrite Audit PA",
+                    "linkDescription": "ระบบโทรคัดกรอง PA",
+                    "linkRole": [],
+                    "linkPermission": []
+                }
+            ]
+        },
+        {
+            "linkGroupId": 4,
+            "linkGroupName": "เคลม",
+            "links": [
+                {
+                    "linkOrder": 1,
+                    "linkIcon": "fa fa-medkit",
+                    "linkIconFA6": "fas fa-medkit",
+                    "linkURL": "https://col.siamsmile.co.th/",
+                    "linkTitle": "Claim On Line",
+                    "linkDescription": "ระบบสินไหมออนไลน์",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 2,
+                    "linkIcon": "fa fa-money",
+                    "linkIconFA6": "fas fa-money-bill",
+                    "linkURL": "https://cpb.siamsmile.co.th/",
+                    "linkTitle": "ClaimPayBack",
+                    "linkDescription": "CLAIMPAYBACK",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 3,
+                    "linkIcon": "fa fa-archive",
+                    "linkIconFA6": "fas fa-archive",
+                    "linkURL": "https://funddoc.siamsmile.co.th",
+                    "linkTitle": "Fund Document",
+                    "linkDescription": "ระบบจัดส่งเอกสารเคลม",
+                    "linkRole": [],
+                    "linkPermission": []
+                }
+            ]
+        },
+        {
+            "linkGroupId": 5,
+            "linkGroupName": "เอกสาร",
+            "links": [
+                {
+                    "linkOrder": 1,
+                    "linkIcon": "fa fa-file-text",
+                    "linkIconFA6": "fas fa-file-alt",
+                    "linkURL": "https://sssph.siamsmile.co.th/Modules/System/frmManualDownload.aspx",
+                    "linkTitle": "Documents Download",
+                    "linkDescription": "ระบบดาวน์โหลดเอกสาร",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 2,
+                    "linkIcon": "fa fa-file-pdf-o",
+                    "linkIconFA6": "fas fa-file-pdf",
+                    "linkURL": "http://27.254.238.179:9139/",
+                    "linkTitle": "Smile-Doc",
+                    "linkDescription": "ระบบจัดเก็บเอกสาร SMILE-DOC",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 3,
+                    "linkIcon": "fa fa-file-pdf-o",
+                    "linkIconFA6": "fas fa-file-pdf",
+                    "linkURL": "http://27.254.238.179:9129/",
+                    "linkTitle": "SSS-Doc",
+                    "linkDescription": "ระบบจัดเก็บเอกสาร SSS-DOC",
+                    "linkRole": [],
+                    "linkPermission": []
+                }
+            ]
+        },
+        {
+            "linkGroupId": 6,
+            "linkGroupName": "บริหารจัดการพนักงาน",
+            "links": [
+                {
+                    "linkOrder": 1,
+                    "linkIcon": "fa fa-group",
+                    "linkIconFA6": "fas fa-users",
+                    "linkURL": "https://siamsmile.mihcm.com/home/dashboard",
+                    "linkTitle": "HCM",
+                    "linkDescription": "ระบบ HR ใหม่",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 2,
+                    "linkIcon": "fa fa-clipboard",
+                    "linkIconFA6": "fas fa-clipboard",
+                    "linkURL": "https://slipviewer.siamsmile.co.th/",
+                    "linkTitle": "Slip Viewer",
+                    "linkDescription": "โปรแกรม SLIP เงินเดือน",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 3,
+                    "linkIcon": "fa fa-group",
+                    "linkIconFA6": "fas fa-users",
+                    "linkURL": "https://ssshr.siamsmile.co.th/",
+                    "linkTitle": "SSSHR",
+                    "linkDescription": "ระบบ HR เก่า",
+                    "linkRole": [],
+                    "linkPermission": []
+                }
+            ]
+        },
+        {
+            "linkGroupId": 7,
+            "linkGroupName": "อื่นๆ",
+            "links": [
+                {
+                    "linkOrder": 1,
+                    "linkIcon": "fa fa-bar-chart",
+                    "linkIconFA6": "fas fa-chart-bar",
+                    "linkURL": "https://bibranch.siamsmile.co.th",
+                    "linkTitle": "BI Dashboard",
+                    "linkDescription": "ระบบ DASHBOARD",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 2,
+                    "linkIcon": "fa fa-bell",
+                    "linkIconFA6": "fas fa-bell",
+                    "linkURL": "https://prospect.siamsmile.co.th",
+                    "linkTitle": "Prospect",
+                    "linkDescription": "ระบบ ผู้มุ่งหวัง",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 3,
+                    "linkIcon": "fa fa-smile-o",
+                    "linkIconFA6": "fas fa-smile",
+                    "linkURL": "https://meesuk.siamsmile.co.th/",
+                    "linkTitle": "Meesuk",
+                    "linkDescription": "ระบบแต้มมีสุข",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 4,
+                    "linkIcon": "fa fa-exclamation-circle",
+                    "linkIconFA6": "fas fa-exclamation-circle",
+                    "linkURL": "https://incident.siamsmile.co.th/",
+                    "linkTitle": "Incident",
+                    "linkDescription": "ระบบรับแจ้งปัญหาการใช้งาน SSS",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 5,
+                    "linkIcon": "fa fa-car",
+                    "linkIconFA6": "fas fa-car",
+                    "linkURL": "https://rsas.siamsmile.co.th/",
+                    "linkTitle": "Roadside Assistance",
+                    "linkDescription": "บริการช่วยเหลือฉุกเฉินบนท้องถนน",
+                    "linkRole": [],
+                    "linkPermission": []
+                }
+            ]
+        },
+        {
+            "linkGroupId": 8,
+            "linkGroupName": "เพิ่มเติม",
+            "links": [
+                {
+                    "linkOrder": 1,
+                    "linkIcon": "fa fa-file-powerpoint-o",
+                    "linkIconFA6": "fas fa-file-powerpoint",
+                    "linkURL": "http://sap.siamsmile.co.th",
+                    "linkTitle": "Web PR",
+                    "linkDescription": "ระบบ WEB PR",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 2,
+                    "linkIcon": "fa fa-shopping-cart",
+                    "linkIconFA6": "fas fa-shopping-cart",
+                    "linkURL": "https://siamsmileshop.com/",
+                    "linkTitle": "Smile Shop",
+                    "linkDescription": "ระบบชอปปิ้งสินค้าสยามสไมล์",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 3,
+                    "linkIcon": "fa fa-car",
+                    "linkIconFA6": "fas fa-car",
+                    "linkURL": "https://zebra.glideapp.io/",
+                    "linkTitle": "Zebra Car",
+                    "linkDescription": "ระบบแจ้งงานรถม้าลาย",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 4,
+                    "linkIcon": "fa fa-user-circle-o",
+                    "linkIconFA6": "fas fa-user-circle",
+                    "linkURL": "https://docs.google.com/forms/d/e/1FAIpQLSc1_Va3RJIcyPPGA0aY-E5N1FLtOnhn-mpV7Lxla-7LZUcWFg/viewform",
+                    "linkTitle": "Leasing",
+                    "linkDescription": "สมัครสินเชื่อ SSL",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 5,
+                    "linkIcon": "fa fa-street-view",
+                    "linkIconFA6": "fas fa-street-view",
+                    "linkURL": "https://www.ssbsiamsmile.com/",
+                    "linkTitle": "SSB 6 Plus",
+                    "linkDescription": "งาน 6 เพิ่ม",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkOrder": 6,
+                    "linkIcon": "fa fa-user",
+                    "linkIconFA6": "fas fa-user",
+                    "linkURL": "https://script.google.com/macros/s/AKfycbz2qzdfneSvaJCEVcvV63Tx4aMJzzif4m1jrQ1_LPBSnfO7q4DHW8nGX0DtdEN83MVseQ/exec",
+                    "linkTitle": "Employees Training",
+                    "linkDescription": "การฝึกอบรมพนักงาน",
+                    "linkRole": [],
+                    "linkPermission": []
+                }
+            ]
+        }
+    ]
+}
