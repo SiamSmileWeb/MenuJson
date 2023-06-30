@@ -5,6 +5,7 @@
             "linkGroupName": "งานรับประกัน",
             "links": [
                 {
+                    "linkId": 1,
                     "linkOrder": 1,
                     "linkIcon": "fa fa-heartbeat",
                     "linkIconFA6": "fas fa-heartbeat",
@@ -15,6 +16,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 2,
                     "linkOrder": 2,
                     "linkIcon": "fa fa-graduation-cap",
                     "linkIconFA6": "fas fa-graduation-cap",
@@ -25,6 +27,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 3,
                     "linkOrder": 3,
                     "linkIcon": "fa fa-automobile",
                     "linkIconFA6": "fas fa-car",
@@ -35,6 +38,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 4,
                     "linkOrder": 4,
                     "linkIcon": "fa fa-cubes",
                     "linkIconFA6": "fas fa-cubes",
@@ -45,6 +49,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 5,
                     "linkOrder": 5,
                     "linkIcon": "fa fa-university",
                     "linkIconFA6": "fas fa-university",
@@ -55,6 +60,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 6,
                     "linkOrder": 6,
                     "linkIcon": "fa fa-ambulance",
                     "linkIconFA6": "fas fa-ambulance",
@@ -71,6 +77,7 @@
             "linkGroupName": "เบี้ยประกัน การเงิน และบัญชี",
             "links": [
                 {
+                    "linkId": 7,
                     "linkOrder": 1,
                     "linkIcon": "fa fa-paypal",
                     "linkIconFA6": "fas fa-paypal",
@@ -81,6 +88,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 8,
                     "linkOrder": 2,
                     "linkIcon": "fa fa-folder",
                     "linkIconFA6": "fas fa-folder",
@@ -91,6 +99,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 9,
                     "linkOrder": 3,
                     "linkIcon": "fa fa-paper-plane-o",
                     "linkIconFA6": "fas fa-paper-plane",
@@ -101,6 +110,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 10,
                     "linkOrder": 4,
                     "linkIcon": "fa fa-btc",
                     "linkIconFA6": "fas fa-btc",
@@ -111,6 +121,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 11,
                     "linkOrder": 5,
                     "linkIcon": "fa fa-money",
                     "linkIconFA6": "fas fa-money-bill",
@@ -121,6 +132,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 12,
                     "linkOrder": 6,
                     "linkIcon": "fa fa-exclamation-circle",
                     "linkIconFA6": "fas fa-exclamation-circle",
@@ -137,6 +149,7 @@
             "linkGroupName": "คัดกรอง",
             "links": [
                 {
+                    "linkId": 13,
                     "linkOrder": 1,
                     "linkIcon": "fa fa-id-card",
                     "linkIconFA6": "fas fa-id-card",
@@ -147,6 +160,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 14,
                     "linkOrder": 2,
                     "linkIcon": "fa fa-shield",
                     "linkIconFA6": "fas fa-shield-alt",
@@ -157,6 +171,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 15,
                     "linkOrder": 3,
                     "linkIcon": "fa fa-phone-square",
                     "linkIconFA6": "fas fa-phone-square-alt",
@@ -167,6 +182,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 16,
                     "linkOrder": 4,
                     "linkIcon": "fa fa-phone-square",
                     "linkIconFA6": "fas fa-phone-square-alt",
@@ -183,6 +199,7 @@
             "linkGroupName": "เคลม",
             "links": [
                 {
+                    "linkId": 17,
                     "linkOrder": 1,
                     "linkIcon": "fa fa-medkit",
                     "linkIconFA6": "fas fa-medkit",
@@ -193,6 +210,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 18,
                     "linkOrder": 2,
                     "linkIcon": "fa fa-money",
                     "linkIconFA6": "fas fa-money-bill",
@@ -203,6 +221,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 19,
                     "linkOrder": 3,
                     "linkIcon": "fa fa-archive",
                     "linkIconFA6": "fas fa-archive",
@@ -219,6 +238,7 @@
             "linkGroupName": "เอกสาร",
             "links": [
                 {
+                    "linkId": 20,
                     "linkOrder": 1,
                     "linkIcon": "fa fa-file-text",
                     "linkIconFA6": "fas fa-file-alt",
@@ -229,6 +249,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 21,
                     "linkOrder": 2,
                     "linkIcon": "fa fa-file-pdf-o",
                     "linkIconFA6": "fas fa-file-pdf",
@@ -239,6 +260,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 22,
                     "linkOrder": 3,
                     "linkIcon": "fa fa-file-pdf-o",
                     "linkIconFA6": "fas fa-file-pdf",
@@ -255,6 +277,7 @@
             "linkGroupName": "บริหารจัดการพนักงาน",
             "links": [
                 {
+                    "linkId": 23,
                     "linkOrder": 1,
                     "linkIcon": "fa fa-group",
                     "linkIconFA6": "fas fa-users",
@@ -265,6 +288,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 24,
                     "linkOrder": 2,
                     "linkIcon": "fa fa-clipboard",
                     "linkIconFA6": "fas fa-clipboard",
@@ -275,6 +299,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 25,
                     "linkOrder": 3,
                     "linkIcon": "fa fa-group",
                     "linkIconFA6": "fas fa-users",
@@ -291,6 +316,7 @@
             "linkGroupName": "อื่นๆ",
             "links": [
                 {
+                    "linkId": 26,
                     "linkOrder": 1,
                     "linkIcon": "fa fa-bar-chart",
                     "linkIconFA6": "fas fa-chart-bar",
@@ -301,6 +327,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 27,
                     "linkOrder": 2,
                     "linkIcon": "fa fa-bell",
                     "linkIconFA6": "fas fa-bell",
@@ -311,6 +338,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 28,
                     "linkOrder": 3,
                     "linkIcon": "fa fa-smile-o",
                     "linkIconFA6": "fas fa-smile",
@@ -321,6 +349,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 29,
                     "linkOrder": 4,
                     "linkIcon": "fa fa-exclamation-circle",
                     "linkIconFA6": "fas fa-exclamation-circle",
@@ -331,6 +360,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 30,
                     "linkOrder": 5,
                     "linkIcon": "fa fa-car",
                     "linkIconFA6": "fas fa-car",
@@ -347,6 +377,7 @@
             "linkGroupName": "เพิ่มเติม",
             "links": [
                 {
+                    "linkId": 31,
                     "linkOrder": 1,
                     "linkIcon": "fa fa-file-powerpoint-o",
                     "linkIconFA6": "fas fa-file-powerpoint",
@@ -357,6 +388,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 32,
                     "linkOrder": 2,
                     "linkIcon": "fa fa-shopping-cart",
                     "linkIconFA6": "fas fa-shopping-cart",
@@ -367,6 +399,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 33,
                     "linkOrder": 3,
                     "linkIcon": "fa fa-car",
                     "linkIconFA6": "fas fa-car",
@@ -377,6 +410,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 34,
                     "linkOrder": 4,
                     "linkIcon": "fa fa-user-circle-o",
                     "linkIconFA6": "fas fa-user-circle",
@@ -387,6 +421,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 35,
                     "linkOrder": 5,
                     "linkIcon": "fa fa-street-view",
                     "linkIconFA6": "fas fa-street-view",
@@ -397,6 +432,7 @@
                     "linkPermission": []
                 },
                 {
+                    "linkId": 36,
                     "linkOrder": 6,
                     "linkIcon": "fa fa-user",
                     "linkIconFA6": "fas fa-user",
