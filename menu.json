@@ -180,17 +180,6 @@
                     "linkDescription": "ระบบโทรหาลูกค้ายกเลิก",
                     "linkRole": [],
                     "linkPermission": []
-                },
-                {
-                    "linkId": 16,
-                    "linkOrder": 4,
-                    "linkIcon": "fa fa-phone-square",
-                    "linkIconFA6": "fas fa-phone-square-alt",
-                    "linkURL": "",
-                    "linkTitle": "Underwrite Audit PA",
-                    "linkDescription": "ระบบโทรคัดกรอง PA",
-                    "linkRole": [],
-                    "linkPermission": []
                 }
             ]
         },
