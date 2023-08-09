@@ -412,11 +412,11 @@
                 {
                     "linkId": 35,
                     "linkOrder": 5,
-                    "linkIcon": "fa fa-street-view",
-                    "linkIconFA6": "fas fa-street-view",
+                    "linkIcon": "fa fa-users",
+                    "linkIconFA6": "fas fa-users",
                     "linkURL": "https://www.ssbsiamsmile.com/",
-                    "linkTitle": "SSB 6 Plus",
-                    "linkDescription": "งาน 6 เพิ่ม",
+                    "linkTitle": "SSB",
+                    "linkDescription": "ส่งเสริมธุรกิจสาขา",
                     "linkRole": [],
                     "linkPermission": []
                 },
