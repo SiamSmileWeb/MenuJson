@@ -358,6 +358,17 @@
                     "linkDescription": "บริการช่วยเหลือฉุกเฉินบนท้องถนน",
                     "linkRole": [],
                     "linkPermission": []
+                },
+                {
+                    "linkId": 31,
+                    "linkOrder": 5,
+                    "linkIcon": "fa fa-cloud-download",
+                    "linkIconFA6": "fas fa-cloud-download",
+                    "linkURL": "https://smilecrm.siamsmile.co.th/",
+                    "linkTitle": "SmileCRM",
+                    "linkDescription": "ระบบ SmileCRM",
+                    "linkRole": [],
+                    "linkPermission": []
                 }
             ]
         },
