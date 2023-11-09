@@ -130,17 +130,6 @@
                     "linkDescription": "ระบบเงินสดย่อย",
                     "linkRole": [],
                     "linkPermission": []
-                },
-                {
-                    "linkId": 12,
-                    "linkOrder": 6,
-                    "linkIcon": "fa fa-exclamation-circle",
-                    "linkIconFA6": "fas fa-exclamation-circle",
-                    "linkURL": "https://bill.siamsmile.co.th/",
-                    "linkTitle": "Bill Payment",
-                    "linkDescription": "ระบบ BILL",
-                    "linkRole": [],
-                    "linkPermission": []
                 }
             ]
         },
