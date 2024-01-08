@@ -69,6 +69,33 @@
                     "linkDescription": "ระบบประกันโรคร้ายแรง",
                     "linkRole": [],
                     "linkPermission": []
+                },
+                {
+                    "linkId": 37,
+                    "linkOrder": 7,
+                    "linkIcon": "fa fa-car",
+                    "linkIconFA6": "fas fa-truck-pickup",
+                    "linkURL": "https://sale.siamsmile.co.th",
+                    "linkTitle": "Smile Motor",
+                    "linkDescription": "ระบบประกันรถยนต์"
+                },
+                {
+                    "linkId": 38,
+                    "linkOrder": 8,
+                    "linkIcon": "fa fa-user",
+                    "linkIconFA6": "fas fa-clipboard-user",
+                    "linkURL": "https://queue.siamsmile.co.th/",
+                    "linkTitle": "Motor Queue",
+                    "linkDescription": "ระบบคิวงานประกันรถยนต์"
+                },
+                {
+                    "linkId": 39,
+                    "linkOrder": 9,
+                    "linkIcon": "fa fa-car",
+                    "linkIconFA6": "fas fa-car-on",
+                    "linkURL": "https://policy.siamsmile.co.th/",
+                    "linkTitle": "Motor Policy",
+                    "linkDescription": "ระบบกรมธรรม์ประกันรถยนต์"
                 }
             ]
         },
