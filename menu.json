@@ -27,17 +27,6 @@
                     "linkPermission": []
                 },
                 {
-                    "linkId": 3,
-                    "linkOrder": 3,
-                    "linkIcon": "fa fa-automobile",
-                    "linkIconFA6": "fas fa-car",
-                    "linkURL": "https://b2b.siamsmile.co.th/sign/in",
-                    "linkTitle": "Motor (Broker-Mate)",
-                    "linkDescription": "โปรแกรม MOTOR",
-                    "linkRole": [],
-                    "linkPermission": []
-                },
-                {
                     "linkId": 4,
                     "linkOrder": 4,
                     "linkIcon": "fa fa-cubes",
