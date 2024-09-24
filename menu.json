@@ -85,6 +85,15 @@
                     "linkURL": "https://policy.siamsmile.co.th/",
                     "linkTitle": "Motor Policy",
                     "linkDescription": "ระบบกรมธรรม์ประกันรถยนต์"
+                },
+                {
+                    "linkId": 40,
+                    "linkOrder": 10,
+                    "linkIcon": "fa-solid fa-school",
+                    "linkIconFA6": "fas fa-school",
+                    "linkURL": "https://ssspaui.siamsmile.co.th/",
+                    "linkTitle": "Policy Tracking",
+                    "linkDescription": "ระบบติดตามกรมธรรม์ PA นักเรียน"
                 }
             ]
         },
