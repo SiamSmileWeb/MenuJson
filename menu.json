@@ -415,7 +415,8 @@
                 {
                   "linkId": 1036,
                   "linkOrder": 3,
-                  "linkIconFA6": "fa fa-mobile",
+                    "linkIcon": "fa fa-mobile",
+                  "linkIconFA6": "fas fa-mobile-screen-button",
                   "linkURL": "https://wallet.siamsmile.co.th",
                   "linkTitle": "Smile Wallet",
                   "linkDescription": "ระบบสไมล์วอลเลต",
