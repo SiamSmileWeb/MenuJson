@@ -413,8 +413,18 @@
                     "linkPermission": []
                 },
                 {
+                  "linkId": 1036,
+                  "linkOrder": 3,
+                  "linkIconFA6": "fas fa-mobile-screen-button",
+                  "linkURL": "https://wallet.siamsmile.co.th",
+                  "linkTitle": "Smile Wallet",
+                  "linkDescription": "ระบบสไมล์วอลเลต"
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
                     "linkId": 33,
-                    "linkOrder": 3,
+                    "linkOrder": 4,
                     "linkIcon": "fa fa-car",
                     "linkIconFA6": "fas fa-car",
                     "linkURL": "https://zebra.glideapp.io/",
@@ -425,7 +435,7 @@
                 },
                 {
                     "linkId": 34,
-                    "linkOrder": 4,
+                    "linkOrder": 5,
                     "linkIcon": "fa fa-user-circle-o",
                     "linkIconFA6": "fas fa-user-circle",
                     "linkURL": "https://docs.google.com/forms/d/e/1FAIpQLSc1_Va3RJIcyPPGA0aY-E5N1FLtOnhn-mpV7Lxla-7LZUcWFg/viewform",
@@ -436,7 +446,7 @@
                 },
                 {
                     "linkId": 35,
-                    "linkOrder": 5,
+                    "linkOrder": 6,
                     "linkIcon": "fa fa-users",
                     "linkIconFA6": "fas fa-users",
                     "linkURL": "https://www.ssbsiamsmile.com/",
@@ -447,7 +457,7 @@
                 },
                 {
                     "linkId": 36,
-                    "linkOrder": 6,
+                    "linkOrder": 7,
                     "linkIcon": "fa fa-user",
                     "linkIconFA6": "fas fa-user",
                     "linkURL": "https://script.google.com/macros/s/AKfycbz2qzdfneSvaJCEVcvV63Tx4aMJzzif4m1jrQ1_LPBSnfO7q4DHW8nGX0DtdEN83MVseQ/exec",
