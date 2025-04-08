@@ -476,10 +476,11 @@
                 {
                     "linkId": 36,
                     "linkOrder": 1,
+                    "linkIcon": "fa fa-shopping-bag",
                     "linkIconFA6": "fas fa-shopping-bag",
                     "linkURL": "https://sssph.siamsmile.co.th/Modules/System/frmDownloadUserVerificationReport.aspx?ID=2",
                     "linkTitle": "Sales Quality",
-                    "linkDescription": "ด้านคุณภาพงานขาย "
+                    "linkDescription": "ด้านคุณภาพงานขาย"
                 },
                 {
                     "linkId": 37,
