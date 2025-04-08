@@ -468,6 +468,56 @@
                     "linkPermission": []
                 }
             ]
+        },
+        {
+            "linkGroupId": 9,
+            "linkGroupName": "งานมาตรฐานผลประกอบการ",
+            "links": [
+                {
+                    "linkId": 36,
+                    "linkOrder": 1,
+                    "linkIconFA6": "fas fa-shopping-bag",
+                    "linkURL": "https://sssph.siamsmile.co.th/Modules/System/frmDownloadUserVerificationReport.aspx?ID=2",
+                    "linkTitle": "Sales Quality",
+                    "linkDescription": "ด้านคุณภาพงานขาย "
+                },
+                {
+                    "linkId": 37,
+                    "linkOrder": 2,
+                    "linkIcon": "fa fa-heart",
+                    "linkIconFA6": "fas fa-heart",
+                    "linkURL": "https://sssph.siamsmile.co.th/Modules/System/frmDownloadUserVerificationReport.aspx?ID=3",
+                    "linkTitle": "Service Quality",
+                    "linkDescription": "ด้านการบริการ"
+                },
+                {
+                    "linkId": 38,
+                    "linkOrder": 3,
+                    "linkIcon": "fa fa-line-chart",
+                    "linkIconFA6": "fas fa-line-chart",
+                    "linkURL": "https://sssph.siamsmile.co.th/Modules/System/frmDownloadUserVerificationReport.aspx?ID=4",
+                    "linkTitle": "Growth and Sustainability",
+                    "linkDescription": "ด้านการเติบโตและยั่งยืน"
+                },
+                {
+                    "linkId": 39,
+                    "linkOrder": 4,
+                    "linkIcon": "fa fa-legal",
+                    "linkIconFA6": "fas fa-legal",
+                    "linkURL": "https://sssph.siamsmile.co.th/Modules/System/frmDownloadUserVerificationReport.aspx?ID=5",
+                    "linkTitle": "Regulations and Compliance",
+                    "linkDescription": "ด้านกติกา และข้อบังคับ"
+                },
+                {
+                    "linkId": 40,
+                    "linkOrder": 5,
+                    "linkIcon": "fa fa-pie-chart",
+                    "linkIconFA6": "fas fa-pie-chart",
+                    "linkURL": "https://sssph.siamsmile.co.th/Modules/System/frmDownloadUserVerificationReport.aspx?ID=6",
+                    "linkTitle": "Business Performance",
+                    "linkDescription": "ด้านผลประกอบการ"
+                }
+            ]
         }
     ]
 }
