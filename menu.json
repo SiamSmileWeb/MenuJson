@@ -194,6 +194,17 @@
                     "linkDescription": "ระบบโทรหาลูกค้ายกเลิก",
                     "linkRole": [],
                     "linkPermission": []
+                },
+                {
+                    "linkId": 41,
+                    "linkOrder": 4,
+                    "linkIcon": "fa fa-map",
+                    "linkIconFA6": "fa fa-map-location-dot",
+                    "linkURL": "https://branch.siamsmile.co.th/",
+                    "linkTitle": "Branch Management",
+                    "linkDescription": "ระบบบริหารงานพื้นที่",
+                    "linkRole": [],
+                    "linkPermission": []
                 }
             ]
         },
