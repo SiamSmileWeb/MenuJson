@@ -477,6 +477,28 @@
                     "linkDescription": "การฝึกอบรมพนักงาน",
                     "linkRole": [],
                     "linkPermission": []
+                },
+                {
+                    "linkId": 50,
+                    "linkOrder": 7,
+                    "linkIcon": "fa fa-building",
+                    "linkIconFA6": "fa fa-building",
+                    "linkURL": "https://app.acemsthailand.com/client/",
+                    "linkTitle": "Hotel Management",
+                    "linkDescription": " ",
+                    "linkRole": [],
+                    "linkPermission": []
+                },
+                {
+                    "linkId": 51,
+                    "linkOrder": 7,
+                    "linkIcon": "fa fa-bed",
+                    "linkIconFA6": "fa fa-bed",
+                    "linkURL": "https://app.acemsthailand.com/smile-land/book#/choose-dates",
+                    "linkTitle": "Hotel Booking",
+                    "linkDescription": " ",
+                    "linkRole": [],
+                    "linkPermission": []
                 }
             ]
         },
